@@ -1,5 +1,5 @@
 if line = gets
-  puts line
+  puts "#{line}"
 else
   puts "No line to print"
 end 
